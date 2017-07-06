@@ -1,0 +1,10 @@
+[Current Event]
+ Event -
+for row in data table
+insert into event table where id = @id values event = @event
+@id = member_id
+@event = event
+
+
+Add Member
+- set event = current event, current event = current event

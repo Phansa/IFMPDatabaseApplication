@@ -1,0 +1,6 @@
+D:\Github\IFMP-Database-Final\DatabaseTool\bin\Debug\IFMP Membership Tool.exe.config
+D:\Github\IFMP-Database-Final\DatabaseTool\obj\Debug\DatabaseTool.vbproj.ResolveComReference.cache
+D:\Github\DB Copy\IFMP Database\DatabaseTool\bin\Debug\IFMP Membership Tool.exe.config
+D:\Github\DB Copy\IFMP Database\DatabaseTool\obj\Debug\DatabaseTool.vbproj.ResolveComReference.cache
+D:\Github\IFMPDatabaseApplication\DatabaseTool\bin\Debug\IFMP Membership Tool.exe.config
+D:\Github\IFMPDatabaseApplication\DatabaseTool\obj\Debug\DatabaseTool.vbproj.ResolveComReference.cache
